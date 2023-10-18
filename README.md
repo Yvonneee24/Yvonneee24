@@ -1,3 +1,6 @@
+<p align="center">
+    <img  alt="pic" src="https://github.com/drshahizan/HPDP/blob/main/portfolio/Yvonneee24/img_0598.jpg" width="280" height="380">
+</p>
 ### Hi there 👋 I am Liew Yvonne!
 I'm a data engineering enthusiast navigating the data streams at **Universiti Teknologi Malaysia (UTM)**. 🚀
 
