@@ -1,6 +1,3 @@
-<p align="center">
-    <img  alt="pic" src="https://github.com/Yvonneee24/Yvonneee24/blob/main/IMG_7991.JPG" width="280" height="380">
-</p>
 ### Hi there 👋 I am Liew Yvonne!
 I'm a data engineering enthusiast navigating the data streams at **Universiti Teknologi Malaysia (UTM)**. 🚀
 
